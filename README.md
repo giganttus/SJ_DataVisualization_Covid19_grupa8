@@ -18,6 +18,8 @@ This project is based on real data thats is extraceted from free sources. All us
 
 With matplotlib, pandas and great sources we made simple data analasys of "how many times are searched these words" during 90 past days (past 90 days when we started coding). We decided to track words like sanitizer, mask and symptoms of covid19 just because in these days most interest is about COVID19. When you look at preview image of project, on left window you will see number of times these words were search (y axis) and date of that word searched (x axis). It's good to say that window is simulated dynamic data with animation. We made script that read line by line of real data and graph is collecting those data while displaying it in realtime. Inside right-bottom window is  same data seperated from each other and its staticly displayed when it's compared to animted window that we described before. And finally last one (right-top) is also static data with info about "current" (at time it was coded) status of COVID19 infection, just to give a touch of same theme with finally point.</br>
 
+Each graph has seperated program and its run by bash script called "autorun.sh". Probably you ask yourself why to run it with script. It's because I like to work on each graph in details for that specified data and most likely because of memory usage of each one file.</br> 
+
 
 
 Real data sources:<br/>
