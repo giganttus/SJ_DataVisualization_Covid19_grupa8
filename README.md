@@ -11,3 +11,5 @@ HRV (CRO)
 Kako bi poreknuli projekt, spremite sve datoteke iz repozitorija u jedan folder.
 Instalirajte python, matplotlib i pandas (iz službene dokumentacije, unutar stvorenog direktorija za trenutni projekt).
 Pokrenite skriptu "autorun.sh"
+
+![alt text](https://i.imgur.com/ePkMs9f.png)
