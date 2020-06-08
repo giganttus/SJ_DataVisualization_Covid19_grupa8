@@ -1,5 +1,7 @@
 # SJ_DataVisualization_Covid19_grupa8
 
+<a href="https://www.youtube.com/watch?v=b7HvB_8-97U">WATCH PREVIEW OF PROJECT</a></br>
+
 ENG 
 
 1) To run project, save files from repository to one folder.<br/>
@@ -34,4 +36,5 @@ Tools and environment:<br/>
 <li>Bash (autoran.sh script)</li>
 <li>Ron's Editor (CSV manipulation)</li>
 <li>Python (modules: matplotlib, pandas and others)</li>
-</ul>
+</ul></br>
+<a href="https://www.youtube.com/watch?v=b7HvB_8-97U">WATCH PREVIEW OF PROJECT</a></br>
