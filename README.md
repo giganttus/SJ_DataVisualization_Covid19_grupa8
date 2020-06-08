@@ -20,10 +20,10 @@ Real data sources:<br/>
 <li>Worldmeter (COVID19 RAW data)</li>
 </ul>
 
-Tools and coding:<br/>
+Tools and environment:<br/>
 <ul>
-<li>Ron's Editor (CSV manipulation)</li>
-<li>PyCharm (Coding)</li>
+<li>PyCharm (Coding environment)</li>
 <li>Bash (autoran.sh script)</li>
-<li>Python (module:matplotlib, pandas and others)</li>
+<li>Ron's Editor (CSV manipulation)</li>
+<li>Python (modules: matplotlib, pandas and others)</li>
 </ul>
