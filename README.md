@@ -14,6 +14,16 @@ HRV (CRO)
 
 ![alt text](https://i.imgur.com/ePkMs9f.png)<br/>
 
+Real data sources:<br/>
 <ul>
-<li>aaaa</li>
+<li>Google Trends (CSV files)</li>
+<li>Worldmeter (COVID19 RAW data)</li>
+</ul>
+
+Tools and coding:<br/>
+<ul>
+<li>Ron's Editor (CSV manipulation)</li>
+<li>PyCharm (Coding)</li>
+<li>Bash (autoran.sh script)</li>
+<li>Python (module:matplotlib, pandas and others)</li>
 </ul>
