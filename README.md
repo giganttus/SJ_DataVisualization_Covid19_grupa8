@@ -27,7 +27,7 @@ Each graph has seperated program and its run by bash script called "autorun.sh".
 Real data sources:<br/>
 <ul>
 <li><a href="https://trends.google.com/trends/?geo=US">Google Trends</a> (CSV files)</li>
-<li>Worldmeter (COVID19 RAW data)</li>
+<li><a href="https://www.worldometers.info/coronavirus/">Worldmeter (COVID19 RAW data)</a></li>
 </ul>
 
 Tools and environment:<br/>
